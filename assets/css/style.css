@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+table {
+    border-collapse: collapse; /* Ensures borders merge cleanly */
+    width: 100%; /* Full width table */
+    margin: 20px 0; /* Adds spacing above and below */
+    font-size: 16px; /* Adjust font size for readability */
+    text-align: left; /* Aligns content to the left */
+    background-color: #f9f9f9; /* Light background for table */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
+table th, table td {
+    padding: 12px 15px; /* Adds spacing inside cells */
+    border: 1px solid #ddd; /* Subtle gray borders */
+}
+
+table th {
+    background-color: #f4f4f4; /* Light gray background for headers */
+    font-weight: bold; /* Makes header text bold */
+    text-align: center; /* Centers text in header */
+}
+
+table tr:nth-child(even) {
+    background-color: #ffffff; /* Alternating row colors */
+}
+
+table tr:nth-child(odd) {
+    background-color: #f9f9f9; /* Alternating row colors */
+}
+
+table tr:hover {
+    background-color: #f1f1f1; /* Highlight row on hover */
+}
