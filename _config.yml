@@ -22,8 +22,8 @@ title: 2025 New England Systems Day
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The New England Systems Day is a day-long, in-person event that brings together faculty, students, and practitioners engaged in computer systems research.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/nesd25" 
+url: "https://khoury-srg.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 
