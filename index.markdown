@@ -44,7 +44,8 @@ Coming soon
 
 
 ## Code of Conduct
-We have adopted the [USENIX Event Code of Conduct](https://www.usenix.org/conferences/coc) for the NESD event.
+
+We have adopted the <a href="https://www.usenix.org/conferences/coc" style="text-decoration: none;">USENIX Event Code of Conduct</a> for the NESD event.
 
 ## Sponsors
 ACM SIGOPS, Khoury College of Computer Sciences
