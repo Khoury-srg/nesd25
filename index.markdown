@@ -41,7 +41,8 @@ To present your work at NESysDay'25, please submit the following information to
 
 
 ## Schedule
-Coming soon
+
+**Coming soon**
 
 <!-- | Time       |Speaker|    Topic            |
 |------------|----------------------|-----------------------|
