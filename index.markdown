@@ -7,6 +7,7 @@ title: Home
 The New England Systems Day (_NESysDay_) is a day-long, in-person event that brings together faculty, students, and practitioners engaged in computer systems research.
 - **Date:** February 3, 2025
 - **Location:** McLeod Suites (Room 318-322, <a href="https://maps.app.goo.gl/MoVdbvNFhbsomJRaA" style="text-decoration: none;">Curry Student Center</a>, Northeastern University)  
+- <a href=https://khoury-srg.github.io/nesd25/doc/nesysday25_cft.pdf" style="text-decoration: none;">**Call for talks**</a>
 
 
 ## Call for participation
