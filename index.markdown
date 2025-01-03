@@ -4,11 +4,9 @@ title: Home
 ---
 
 
-The New England Systems Day is a day-long, in-person event that brings together faculty, students, and practitioners engaged in computer systems research.
+The New England Systems Day (_NESysDay_) is a day-long, in-person event that brings together faculty, students, and practitioners engaged in computer systems research.
 - **Date:** February 3, 2025
 - **Location:** McLeod Suites (Room 318-322, <a href="https://maps.app.goo.gl/MoVdbvNFhbsomJRaA" style="text-decoration: none;">Curry Student Center</a>, Northeastern University)  
-
-
 
 
 ## Call for participation
@@ -27,8 +25,19 @@ broadly interested in topics in this space, including, but not limited to:
 - System virtualization
 - Management and troubleshooting of complex systems
 
-## Instructions for Speakers
-Coming soon
+## Talk solicitation
+
+To present your work at NESysDay'25, please submit the following information to
+<a href="https://ne-sysday25.hotcrp.com/" style="text-decoration: none;">https://ne-sysday25.hotcrp.com/</a>
+- 1-page abstract
+  - Title, abstract, and references (if any) must fit into 1 page.
+  - There is no required format. Please use reasonable font sizes and margins.
+- Talk length (you may be asked to present a shorter talk than what you select)
+  - 15-minute talk/5-minute Q&A
+  - 10-minute talk/5-minute Q&A
+  - 5-minute talk/no Q&A (or Q&A during break)
+- (Optional) Pointers to papers (if published), tech reports, or any relevant public materials.
+
 
 ## Schedule
 Coming soon
@@ -45,11 +54,10 @@ Coming soon
 
 ## Code of Conduct
 
-We have adopted the <a href="https://www.usenix.org/conferences/coc" style="text-decoration: none;">USENIX Event Code of Conduct</a> for the NESD event.
+We have adopted the <a href="https://www.usenix.org/conferences/coc" style="text-decoration: none;">USENIX Event Code of Conduct</a> for the NESysDay event.
 
 ## Sponsors
 ACM SIGOPS, Khoury College of Computer Sciences
-
 
 
 
