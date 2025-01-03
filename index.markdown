@@ -55,8 +55,8 @@ To present your work at NESysDay'25, please submit the following information to
 
 ## Organizing committee
 
-- Cheng Tan (Organizer, Northeastern University)
-- Ji-Yong Shin (Organizer, Northeastern University)
+- Cheng Tan (Co-Chair, Northeastern University)
+- Ji-Yong Shin (Co-Chair, Northeastern University)
 - Yigong Hu (Boston University)
 - Kyungtae Kim (Dartmouth College)
 - Deepti Raghavan (Brown University)
