@@ -61,7 +61,7 @@ To present your work at NESysDay'25, please submit the following information to
 - Kyungtae Kim (Dartmouth College)
 - Deepti Raghavan (Brown University)
 - Akshay Narayan (Brown University)
-- Jenney Ren (Northeastern)
+- Xiang (Jenny) Ren (Northeastern)
 - Juncheng Yang (Harvard University)
 
 ## Code of Conduct
