@@ -29,10 +29,8 @@ and Management and troubleshooting of complex systems._
 ## Talk solicitation
 
 To present your work at NESysDay'25, please submit the following information to
-<a href="https://ne-sysday25.hotcrp.com/" style="text-decoration: none;">https://ne-sysday25.hotcrp.com/</a>
-- 1-page abstract
-  - Title, abstract, and references (if any) must fit into 1 page.
-  - There is no required format. Please use reasonable font sizes and margins.
+<a href="https://ne-sysday25.hotcrp.com/" style="text-decoration: none;">https://ne-sysday25.hotcrp.com/</a>:
+- Talk title and abstract (the abstract can be a simple paragraph)
 - Talk length (you may be asked to present a shorter talk than what you select)
   - 15-minute talk/5-minute Q&A
   - 10-minute talk/5-minute Q&A
@@ -54,13 +52,23 @@ To present your work at NESysDay'25, please submit the following information to
 | 5:00 PM    | Closing Remarks      | Prof. Alice Wang      | -->
 
 
+## Organizing committee
+
+- Cheng Tan (Organizer, Northeastern University)
+- Ji-Yong Shin (Organizer, Northeastern University)
+- Yigong Hu (Boston University)
+- Kyungtae Kim (Dartmouth College)
+- Deepti Raghavan (Brown University)
+- Akshay Narayan (Brown University)
+- Jenney Ren (Northeastern)
+- Juncheng Yang (Harvard University)
+
 ## Code of Conduct
 
 We have adopted the <a href="https://www.usenix.org/conferences/coc" style="text-decoration: none;">USENIX Event Code of Conduct</a> for the NESysDay event.
 
 ## Sponsors
 ACM SIGOPS, Khoury College of Computer Sciences
-
 
 
 ## Contact
