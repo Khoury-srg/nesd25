@@ -9,6 +9,10 @@ The New England Systems Day (_NESysDay_) is a day-long, in-person event that bri
 - **Location:** McLeod Suites (Room 318-322, <a href="https://maps.app.goo.gl/MoVdbvNFhbsomJRaA" style="text-decoration: none;">Curry Student Center</a>, Northeastern University)  
 - **Call for talks**: <a href="https://khoury-srg.github.io/nesd25/doc/nesysday25_cft.pdf" style="text-decoration: none;">pdf</a>
 
+## Registration
+
+Please register using the following link:
+<a href="https://www.accelevents.com/e/new-england-systems-day" style="text-decoration: none;">https://www.accelevents.com/e/new-england-systems-day</a>
 
 ## Call for participation
 We solicit talks about ongoing research in the area of computer systems. We are
