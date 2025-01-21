@@ -34,7 +34,7 @@ and Management and troubleshooting of complex systems._
 ## Talk solicitation
 
 To present your work at NESysDay'25, please submit the following information to
-<a href="https://ne-sysday25.hotcrp.com/" style="text-decoration: none;">https://ne-sysday25.hotcrp.com/</a> by January 20, 2024:
+<a href="https://ne-sysday25.hotcrp.com/" style="text-decoration: none;">https://ne-sysday25.hotcrp.com/</a> by January 24, 2024:
 - Talk title and abstract (the abstract can be a simple paragraph)
 - Talk length (you may be asked to present a shorter talk than what you select)
   - 15-minute talk/5-minute Q&A
