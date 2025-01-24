@@ -80,7 +80,7 @@ To present your work at NESysDay'25, please submit the following information to
 | Rethinking Trust in Forge-Based Git Security---*Patrick Zielinski (New York University)* |
 | Securing the Legal Code with TUF---*Renata Vaderna (New York University)* |
 | Rust Isn't a Silver Bullet for Systems Research (Yet)---*Corinn Tiffany (Brown University)* |
-| T-BRD: Tesla Authenticated UAS Broadcast Remote ID---* Jason Veara (Northeastern University), Manav Bharat Jain (Northeastern University) Aanjhan Ranganathan (Northeastern University)* |
+| T-BRD: Tesla Authenticated UAS Broadcast Remote ID---*Jason Veara (Northeastern University), Manav Bharat Jain (Northeastern University) Aanjhan Ranganathan (Northeastern University)* |
 
 
 | Network and Formal Methods |
