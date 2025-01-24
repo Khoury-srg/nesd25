@@ -45,16 +45,53 @@ To present your work at NESysDay'25, please submit the following information to
 
 ## Schedule
 
-**Coming soon**
+| Machine Learning Systems |
+|:--------------------------|
+| QuArch: Crowdsourcing an ML Dataset for Benchmarking AI in Computer Architecture---*Shvetank Prakash (Harvard University)* |
+| Refine: Robust Unsupervised Anomaly Detection for Production HPC Systems---*Efe Sencan (Boston University)* |
+| GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism---*Juelin Liu (University of Massachusetts Amherst), Sandeep Polisetty (University of Massachusetts Amherst)* |
+| Astraea, an online probabilistic distributed tracing system---*Syed Qasim (Boston University)* |
+| Stateful Large Language Model Serving with Pensieve---*Jinkun Lin (New York University)* |
+| Enhancing LLM Access with Quality-Aware Speculative Generation Across Regions---*Noah Martin (Tufts University), Fahad Dogar (Tufts University)* |
+| DROP: Poison Dilution via Knowledge Distillation for Federated Learning---*Georgios Syros (Northeastern University)* |
+| LLMProxy: Reducing Cost to Access Large Language Models---*Abdullah Bin Faisal (Tufts University)* |
+|-----------------------------------------------------------------------------|
 
-<!-- | Time       |Speaker|    Topic            |
-|------------|----------------------|-----------------------|
-| 9:00 AM    | Registration         | -                     |
-| 10:00 AM   | Opening Keynote      | Prof. John Doe        |
-| 11:30 AM   | Research Presentation | Dr. Jane Smith       |
-| 12:30 PM   | Lunch Break          | -                     |
-| 2:00 PM    | Panel Discussion     | Various Speakers      |
-| 5:00 PM    | Closing Remarks      | Prof. Alice Wang      | -->
+| Panel Discussion: When Systems Meet AI |
+|:-----------------|
+| Mohammad Alizadeh (MIT), Jonathan Appavoo (Red Hat Research and Boston University), Tim Kraska (MIT), Vijay Janapa Reddi (Harvard University)  |
+|-----------------|
+
+| **Lunch** |
+
+
+| Systems |
+|:--------------------------|
+| Carbon-aware scheduling: Approaches and Trade-offs---*Walid Hanafy (University of Massachusetts Amherst)* |
+| ZStore: A Efficient S3-Compatible Object Storage System with ZNS SSDs---*Shuwen Sun (Northeastern University)* |
+| Caging: An Abstraction For Finer-grained Isolation---*Yaxuan (Alice) Wen (New York University)* |
+| Going Beyond Unknowns: Generalizing Database Checking---*Jian Zhang (Northeastern University)* |
+| MANA: A New Generation of Low-Overhead Non-Invasive Transparent Checkpointing for HPC---*Yao Xu (Northeastern University)* |
+
+
+| Security |
+|:--------------------------|
+| Exploiting Temporal Vulnerabilities for Unauthorized Access in Intent-Based Networking---*Ben Weintraub (Northeastern University and Lincoln Laboratory)* |
+| Rethinking Trust in Forge-Based Git Security---*Patrick Zielinski (New York University)* |
+| Securing the Legal Code with TUF---*Renata Vaderna (New York University)* |
+| Rust Isn't a Silver Bullet for Systems Research (Yet)---*Corinn Tiffany (Brown University)* |
+| T-BRD: Tesla Authenticated UAS Broadcast Remote ID---* Jason Veara (Northeastern University), Manav Bharat Jain (Northeastern University) Aanjhan Ranganathan (Northeastern University)* |
+
+
+| Network and Formal Methods |
+|:--------------------------|
+| A Formal Analysis of SCTP: Attack Synthesis and Patch Verification---*Jake Ginesin (Northeastern University)* |
+| Topaz: Declarative and Verifiable Authoritative DNS at CDN-Scale---*James Larisch (Harvard University)* |
+| Design and Implementation of a Scalable Financial Exchange in the Public Cloud---*Haseeb Ashfaq (New York University)* |
+| Verifying safety and liveness of compositions of weakly consistent distributed systems---*Bryant Curto (Northeastern University)* |
+| Parameters Optimization for LoRa Links: An Experimental Approach for Power Consumption and Packet Reception---*Claudia Pacori Palomino (Dartmouth College)* |
+| Performance of Cellular Networks on the Wheels---*Moinak Ghoshal (Northeastern University))* |
+
 
 
 ## Organizing committee
