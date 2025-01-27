@@ -45,6 +45,8 @@ To present your work at NESysDay'25, please submit the following information to
 
 ## Schedule
 
+| **Breakfast** |
+
 | Machine Learning Systems |
 |:--------------------------|
 | QuArch: Crowdsourcing an ML Dataset for Benchmarking AI in Computer Architecture---*Shvetank Prakash (Harvard University)* |
