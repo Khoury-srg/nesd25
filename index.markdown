@@ -64,7 +64,7 @@ To present your work at NESysDay'25, please submit the following information to
 
 | 11:00 am - 12:00 pm --- Panel Discussion: When Systems Meet AI |
 |:-----------------|
-| Mohammad Alizadeh (MIT), Jonathan Appavoo (Red Hat Research and Boston University), Tim Kraska (MIT), Vijay Janapa Reddi (Harvard University)  |
+| **Panelists:** Mohammad Alizadeh (MIT), Jonathan Appavoo (Red Hat Research and Boston University), Tim Kraska (MIT), and Vijay Janapa Reddi (Harvard University) **Moderator:** Cheng Tan (Northeastern University)  |
 |-----------------|
 
 | **12:00 pm - 1:20 pm --- Lunch** |
