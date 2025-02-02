@@ -49,7 +49,7 @@ To present your work at NESysDay'25, please submit the following information to
 
 | **8:55 am - 9:00 am --- Opening Remarks** |
 
-| 9:00 am - 10:35 am --- Machine Learning Systems |
+| 9:00 am - 10:35 am --- Machine Learning Systems (session chair: Yigong Hu) |
 |:--------------------------|
 | Stateful Large Language Model Serving with Pensieve---*Jinkun Lin (New York University)* |
 | QuArch: Crowdsourcing an ML Dataset for Benchmarking AI in Computer Architecture---*Shvetank Prakash (Harvard University)* |
@@ -70,7 +70,7 @@ To present your work at NESysDay'25, please submit the following information to
 | **12:00 pm - 1:20 pm --- Lunch** |
 
 
-| 1:20 pm - 2:25 pm --- Systems |
+| 1:20 pm - 2:25 pm --- Systems (session chair: Xiang (Jenny) Ren) |
 |:--------------------------|
 | Caging: An Abstraction For Finer-grained Isolation---*Yaxuan (Alice) Wen (New York University)* |
 | MANA: A New Generation of Low-Overhead Non-Invasive Transparent Checkpointing for HPC---*Yao Xu (Northeastern University)* |
@@ -80,7 +80,7 @@ To present your work at NESysDay'25, please submit the following information to
 
 | **2:25 pm - 2:45 pm --- Break** |
 
-| 2:45 pm - 3:50 pm --- Security and Formal Methods |
+| 2:45 pm - 3:50 pm --- Security and Formal Methods (session chair: Deepti Raghavan) |
 |:--------------------------|
 | Rust Isn't a Silver Bullet for Systems Research (Yet)---*Corinn Tiffany (Brown University)* |
 | Rethinking Trust in Forge-Based Git Security---*Patrick Zielinski (New York University)* |
@@ -91,7 +91,7 @@ To present your work at NESysDay'25, please submit the following information to
 
 | **3:50 pm - 4:10 pm --- Break** |
 
-| 4:10 pm - 5:15 pm --- Networks |
+| 4:10 pm - 5:15 pm --- Networks (session chair: Akshay Narayan) |
 |:--------------------------|
 | Topaz: Declarative and Verifiable Authoritative DNS at CDN-Scale---*James Larisch (Harvard University)* |
 | Exploiting Temporal Vulnerabilities for Unauthorized Access in Intent-Based Networking---*Ben Weintraub (Northeastern University and Lincoln Laboratory)* |
