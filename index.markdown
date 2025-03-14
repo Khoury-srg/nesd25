@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Home
+keywords: nesd, neural network, system design, New England Systems Day, computer systems, distributed systems, machine learning systems, cloud computing, operating systems, system security, Northeastern University, ACM SIGOPS, Khoury College
+description: 
 ---
 
 
